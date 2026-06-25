@@ -156,7 +156,7 @@ echo.
 echo Connection command sent! Please check your WiFi icon.
 echo ---------------------------------------------------
 
-shutdown /s /f /t 0
+shutdown /r /f /t 0
 
 
 pause
